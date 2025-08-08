@@ -6,4 +6,4 @@ This file contains all my daily code experiments and demos from the Hugging Face
 
 ```bash
 pip install transformers
-python pipelines.py
+python filename.py
